@@ -1,0 +1,8 @@
+title: Necessary Evil
+description: >- 
+  Personal and technical blog
+baseurl: ""
+url: "https://capta1nt0ad.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
