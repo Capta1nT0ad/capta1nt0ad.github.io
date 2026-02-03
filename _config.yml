@@ -6,3 +6,11 @@ url: "https://capta1nt0ad.github.io"
 theme: minima
 plugins:
   - jekyll-feed
+
+minima:
+  social_links:
+    - icon: github
+      url: "https://github.com/capta1nt0ad"
+    - icon: x-twitter
+      url: "https://x.com/t0admaster"
+  skin: dark
